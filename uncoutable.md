@@ -1,0 +1,10 @@
+homework
+advice
+money
+bread
+rice
+furniture
+research
+evidence
+progress
+luggage

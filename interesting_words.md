@@ -1,0 +1,4 @@
+- contort:
+  - "His face contorts as he screams out the lyrics..."
+  - "The gentlest of her caresses would contort his already tense body..."
+  - "Brenner was breathing hard, his face controlled with pain."

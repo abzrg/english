@@ -1,0 +1,6 @@
+- duck -> duck
+- turkey -> turkey
+- cow -> beef -> steak
+- sheep -> lamb
+- deer -> venison
+- pig -> pork -> ham -> bacon -> sausages

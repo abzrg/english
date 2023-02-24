@@ -1,0 +1,16 @@
+% src: https://tex.stackexchange.com/questions/179982/add-a-black-border-to-block-quotations
+% usage: pandoc example.md -H quote-setup.tex -o example.pdf
+
+
+
+% \usepackage{framed}
+% \let\oldquote=\quote
+% \let\endoldquote=\endquote
+% \renewenvironment{quote}{\begin{framed}\begin{oldquote}}{\end{oldquote}\end{framed}}
+
+\usepackage{framed}
+\usepackage{xcolor}
+\let\oldquote=\quote
+\let\endoldquote=\endquote
+\colorlet{shadecolor}{orange!15}
+\renewenvironment{quote}{\begin{shaded*}\begin{oldquote}}{\end{oldquote}\end{shaded*}}
